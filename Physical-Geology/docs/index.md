@@ -3,9 +3,9 @@
 
 对应的考研大纲为 [**中南大学 832-《地质与勘查基础》考试大纲**](https://gip.csu.edu.cn/info/1046/7140.htm)。
 
-本笔记仅对应其中公共课，即**地质与勘查的基本概念、原理和分类（普通地质学）**部分的内容。
+本笔记仅对应其中公共课，即 **地质与勘查的基本概念、原理和分类（普通地质学）** 部分的内容。
 
-GitHub Repository：[Physical-Geology-Postgraduate-Entrance-Examination-Notes](https://github.com/barkure/Physical-Geology-Postgraduate-Entrance-Examination-Notes)
+GitHub Repository：[Physical-Geology-Notes](https://github.com/barkure/Physical-Geology-Notes)
 
 由 [barkure](https://github.com/barkure) 整理于 2024年11月。
 

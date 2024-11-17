@@ -1,7 +1,46 @@
 site_name: 《普通地质学》考研笔记
 
+site_url: https://geo.barku.re
+
+repo_url: https://github.com/barkure/Physical-Geology-Notes
+
+repo_name: Physical-Geology-Notes
+
+site_author: barkure
+
+copyright: © 2024 barkure
+
 theme:
   name: material
+  language: zh
+  palette: 
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: 切换到暗色模式
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: 切换到亮色模式
+
+extra:
+  # generator: false  #删除页脚显示“使用 MkDocs 材料制造”
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/barkure
+        name: GitHub
+      - icon: simple/hexo
+        link: https://barku.re
+        name: Bilibili
+      - icon: material/email
+        link: mailto:xinyao_qi@outlook.com
+        name: Email
+
+features:
+  - navigation.instant
 
 nav:
   - 首页: index.md

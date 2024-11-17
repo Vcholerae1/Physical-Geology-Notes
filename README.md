@@ -1,4 +1,4 @@
-##  Physical-Geology-Postgraduate-Entrance-Examination-Notes
+##  Physical-Geology-Notes
 这是一个关于《普通地质学》的考研笔记。
 
 对应的考研大纲为 [**中南大学 832-《地质与勘查基础》考试大纲**](https://gip.csu.edu.cn/info/1046/7140.htm)。

@@ -32,7 +32,7 @@ if __name__ == "__main__":
     # 本地构建路径
     build_path = './Physical-Geology/site'
     # 服务器站点路径
-    server_site_path = '/var/www/geo'
+    server_site_path = '/var/www/geo.barku.re'
     # 服务器地址
     server = 'clawcloud-hk'
     # 构建

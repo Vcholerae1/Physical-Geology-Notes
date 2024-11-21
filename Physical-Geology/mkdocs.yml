@@ -42,6 +42,13 @@ extra:
 features:
   - navigation.instant
 
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
+
 nav:
   - 首页: index.md
   - 1.地球的一般概念及特征（10'）: 1.地球的一般概念及特征.md
